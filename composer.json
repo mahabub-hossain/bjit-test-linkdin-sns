@@ -1,0 +1,13 @@
+{
+    "name": "bjit/sns-linkdin",
+    "description": "Tthis is a library of Linkdin authentication",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mahabub.mollah",
+            "email": "mahabub.mollah@bjitgroup.com"
+        }
+    ],
+    "require": {}
+}
